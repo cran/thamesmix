@@ -2,7 +2,7 @@ Package: thamesmix
 Type: Package
 Title: Truncated Harmonic Mean Estimator of the Marginal Likelihood for
         Mixtures
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     c(person(given = "Martin",
     family = "Metodiev",
@@ -33,7 +33,7 @@ VignetteBuilder: knitr
 Suggests: multimode, knitr, bayesmix, label.switching, LaplacesDemon,
         markdown
 NeedsCompilation: no
-Packaged: 2025-06-19 14:42:12 UTC; metodiev
+Packaged: 2025-06-26 09:34:43 UTC; metodiev
 Author: Martin Metodiev [aut, cre, cph] (ORCID:
     <https://orcid.org/0009-0000-9432-3756>),
   Nicholas J. Irons [aut] (ORCID:
@@ -41,4 +41,4 @@ Author: Martin Metodiev [aut, cre, cph] (ORCID:
   Marie Perrot-Dockès [aut]
 Maintainer: Martin Metodiev <m.metodiev@tutanota.com>
 Repository: CRAN
-Date/Publication: 2025-06-23 11:10:02 UTC
+Date/Publication: 2025-06-26 13:40:02 UTC
